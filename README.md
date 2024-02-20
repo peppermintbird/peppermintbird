@@ -12,9 +12,9 @@ I'm Ray, a data science student and language enthusiast. Welcome to my corner of
 
 <div style="background-color: rgba(255, 255, 255, 0.8); padding: 10px; border-radius: 5px; margin-bottom: 10px;">
   
-  - 💎 **Hard**: "Crime and Punishment" by Fiodor Dostoeviski
+  - 💎 **Hard**: "Crime and Punishment" by Fyodor Dostoevsky
 
-  - 🍵 **Mild**: "The Complete Works" of Hans Christian Andersen
+  - 🍵 **Mild**: "The Complete Fairy Tales and Stories" by Hans Christian Andersen
     
 </div>
 
