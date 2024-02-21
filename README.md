@@ -56,8 +56,8 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 ## 🤝 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-Send-green?style=flat&logo=gmail&labelColor=D14836&logoColor=white)](mailto:rayanerocha090@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)]([your-linkedin-profile](https://www.linkedin.com/in/rayane-rocha-ds))   [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-orange?style=flat&logo=kaggle&labelColor=20BEFF&logoColor=white)]([your-kaggle-profile](https://www.kaggle.com/rayrocha)https://www.kaggle.com/rayrocha)
-
+[![Email](https://img.shields.io/badge/Email-Send-green?style=flat&logo=gmail&labelColor=D14836&logoColor=white)](mailto:rayanerocha090@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-orange?style=flat&logo=kaggle&labelColor=20BEFF&logoColor=white)](https://www.kaggle.com/rayrocha)
 
 _With love, Ray_
 
