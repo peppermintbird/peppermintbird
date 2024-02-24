@@ -14,7 +14,7 @@ I'm Ray, a data science student and language enthusiast. Welcome to my corner of
 
 | Category               | Tools and Libraries                                                | 
 |------------------------|---------------------------------------------------------------------|
-| **Programming Languages** | Python, R, JavaScript                                                        | 
+| **Programming Languages** | Python, JavaScript                                                        | 
 | **Libraries and Frameworks** | NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, snnTorch, PyTorch, Astropy | 
 |**Testing and Coverage** | pytest, Codecov                                                   |
 | **Notebooks**           | Jupyter                                                           | 
