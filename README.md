@@ -66,7 +66,7 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
   
   <h2>📑 Academic Curriculum</h2>
   
-  [![ORCID](https://img.shields.io/badge/ORCID-ID-green?style=flat&logo=orcid&logoColor=white)]([https://orcid.org/YOUR_ORCID_ID](https://orcid.org/0009-0003-4113-2931))
+  [![ORCID](https://img.shields.io/badge/ORCID-ID-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4113-2931)
   [![CNPq](https://img.shields.io/badge/CNPq-ID-blue?style=flat&logo=cnpq&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=5932F4EE809B0766F3EA3E9755168F07)
 </div>
 
