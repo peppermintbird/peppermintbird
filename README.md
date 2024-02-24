@@ -32,10 +32,10 @@ I'm Ray, a data science student and language enthusiast. Welcome to my corner of
 
 ## 🌟 Want to learn
 
-  - Philosphy, musical aesthetics
-  - NASA TOPS 101
-  - Neuromatch
-  - ML with AWS SageMaker
+  - [Neurophilosphy](https://www.wi-phi.com/modules/neurophilosophy/) and musical aesthetics
+  - [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/)
+  - [Neuromatch](https://neuromatch.io/)
+  - [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card)
 
 
 ## 📖 Currently Reading
