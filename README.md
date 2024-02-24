@@ -34,7 +34,8 @@ I'm Ray, a data science student and language enthusiast. Welcome to my corner of
 
   - Philosphy, musical aesthetics
   - NASA TOPS 101
-  - Climatematch, Neuromatch
+  - Neuromatch
+  - ML with AWS SageMaker
 
 
 ## 📖 Currently Reading
