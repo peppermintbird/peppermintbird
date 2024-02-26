@@ -49,10 +49,11 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 ## 🎬 Hobbies and Interests
 
-- 🌟 Ghibli films and the sci-fi western anime Trigun (especially the cat, don't you just love it?).
-- 📝 Writing, literature, language learning (currently focusing on German and Japanese).
-- 🎹 Classic music (especially the piano).
+- 📝 Writing and literature.
+- 🤓 Language learning (currently focusing on German and Japanese).
 - 😺 Cat lover extraordinaire.
+- 🌟 Ghibli films, HxH, and Trigun (especially the cat!).
+- 🎹 Classic music (especially the piano).
 - 🎮 Thought-provoking games.
 - 🧠 Continuously pursuing knowledge and growth.
 
