@@ -20,7 +20,7 @@ I'm Ray, a data science and language enthusiast. Welcome to my corner of the cod
 | **Notebooks**           | Jupyter                                                           | 
 | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
 | **Version Control**     | Git, GitHub                                                       | 
-| **Web Development**     | Django                                                            | 
+| **Web Development**     | HTML, CSS                                                            | 
 | **Data Visualization**  | Tableau, Power BI                                                 | 
 | **Command Line**        | Linux/Unix command line                                           | 
 
@@ -51,9 +51,9 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 - 🌟 Ghibli films and the sci-fi western anime Trigun (especially the cat, don't you just love it?).
 - 📝 Writing, literature, language learning (currently focusing on German and Japanese).
-- 🎻 Classic music.
+- 🎹 Classic music (especially the piano).
 - 😺 Cat lover extraordinaire.
-- 🎮 Inspired by thought-provoking games.
+- 🎮 Thought-provoking games.
 - 🧠 Continuously pursuing knowledge and growth.
 
 <div align="center">
