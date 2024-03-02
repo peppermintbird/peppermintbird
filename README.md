@@ -19,10 +19,11 @@ I'm Ray, a data science and language enthusiast. Welcome to my corner of the cod
 |**Testing and Coverage** | pytest, Codecov                                                   |
 | **Notebooks**           | Jupyter                                                           | 
 | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
-| **Version Control**     | Git, GitHub                                                       | 
-| **Web Development**     | HTML, CSS                                                            | 
-| **Data Visualization**  | Tableau, Power BI                                                 | 
-| **Command Line**        | Linux/Unix command line                                           | 
+| **Version Control**     | Git, GitHub                                                       |
+| **Runtime**             | Node.js                                                           |
+| **Web Development**     | HTML, CSS                                                         | 
+| **Data Visualization**  | Tableau                                                           | 
+
 
 
 ## ⚗️Projects
@@ -36,6 +37,7 @@ I'm Ray, a data science and language enthusiast. Welcome to my corner of the cod
   - [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/)
   - [Neuromatch](https://neuromatch.io/)
   - [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card)
+  - [Fortran & C | Scientific computing](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/)
 
 
 ## 📖 Currently Reading
@@ -51,8 +53,8 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 - 📝 Writing and literature.
 - 🤓 Language learning (currently focusing on German and Japanese).
-- 😺 Cat lover extraordinaire.
-- 🌟 Ghibli films, HxH, and Trigun (especially the cat!).
+- 😺 Cat ambassador extraordinaire.
+- 🌟 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).
 - 🎹 Classic music (especially the piano).
 - 🎮 Thought-provoking games.
 - 🧠 Continuously pursuing knowledge and growth.
