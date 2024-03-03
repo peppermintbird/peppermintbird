@@ -26,11 +26,6 @@ I'm Ray, a data science and language enthusiast. Welcome to my corner of the cod
 
 
 
-## ⚗️Projects
-
-  - Matrix Decoder
-  - Kaggle 1st project: "Titanic - Machine Learning from Disaster"
-
 ## 🌟 Want to learn
 
   - [Neurophilosphy](https://www.wi-phi.com/modules/neurophilosophy/) and musical aesthetics
@@ -53,7 +48,7 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 - 📝 Writing and literature.
 - 🤓 Language learning (currently focusing on German and Japanese).
-- 😺 Cat ambassador extraordinaire.
+- 😺 Cat lady.
 - 🌟 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).
 - 🎹 Classic music (especially the piano).
 - 🎮 Thought-provoking games.
