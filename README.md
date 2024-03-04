@@ -48,7 +48,7 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 - 📝 Writing and literature.
 - 🤓 Language learning (currently focusing on German and Japanese).
-- 😺 Cat lady.
+- 😺 Cats.
 - 🌟 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).
 - 🎹 Classic music (especially the piano).
 - 🎮 Thought-provoking games.
