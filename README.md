@@ -6,7 +6,7 @@ I'm Ray, a data science and language enthusiast. Welcome to my corner of the cod
 
 - 📚 Studying Data Science and Foreign Languages. Exploring spiking neural networks and computational neuroscience.
 - 🌐 Struggling to contribute to the open-source projects [snnTorch](https://github.com/jeshraghian/snntorch) and [Open MCT](https://github.com/nasa/openmct) -- those folks are really brilliant.
-- 🌍 Interested in climate and astronomical research, and neuromorphic systems.
+- 🌍 Interested in astronomical research and neuromorphic systems.
 
 ## 🧰 Toolbox
 
