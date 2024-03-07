@@ -57,15 +57,15 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 <div align="center">
   <h2>🤝 Let's Connect</h2>
   
-  [![Email](https://img.shields.io/badge/Email-Send-green?style=flat&logo=gmail&labelColor=D14836&logoColor=white)](mailto:rayanerocha090@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-orange?style=flat&logo=kaggle&labelColor=20BEFF&logoColor=white)](https://www.kaggle.com/rayrocha)
-  [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?style=flat&logo=spotify)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
+  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red&logoColor=white)](mailto:rayanerocha090@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&labelColor=20BEFF&logoColor=white)](https://www.kaggle.com/rayrocha)
+  [![Spotify](https://img.shields.io/badge/Spotify-gray?style=flat&logo=spotify)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
   
   <h2>📑 Academic Curriculum</h2>
   
-  [![ORCID](https://img.shields.io/badge/ORCID-ID-green?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4113-2931)
-  [![Lattes](https://img.shields.io/badge/CNPq-Lattes-blue?style=flat&logo=cnpq&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=5932F4EE809B0766F3EA3E9755168F07)
+  [![ORCID](https://img.shields.io/badge/ORCID-ID-lightblue?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4113-2931)
+  [![Lattes](https://img.shields.io/badge/CNPq-Lattes-lightblue?style=flat&logo=cnpq&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=5932F4EE809B0766F3EA3E9755168F07)
 </div>
 
 
