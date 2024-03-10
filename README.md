@@ -37,7 +37,7 @@
 | Category               | Tools and Libraries                                                | 
 |------------------------|---------------------------------------------------------------------|
 | **Programming Languages** | Python, JavaScript                                                        | 
-| **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, snnTorch, PyTorch, Astropy | 
+| **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, snnTorch, PyTorch, Astropy | 
 |**Testing and Coverage** | pytest, Codecov                                                   |
 | **Notebooks**           | Jupyter                                                           | 
 | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
