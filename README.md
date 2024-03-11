@@ -78,20 +78,21 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 <div align="center">
   <h2>🤝 Let's connect</h2>
-  
-  [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red&logoColor=white)](mailto:rayanerocha090@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&labelColor=20BEFF&logoColor=white)](https://www.kaggle.com/rayrocha)
-  [![Spotify](https://img.shields.io/badge/Spotify-gray?style=flat&logo=spotify)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
-  
+
+[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black&logoColor=white)](mailto:rayanerocha090@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=flat&logo=kaggle&labelColor=black&logoColor=white)](https://www.kaggle.com/rayrocha)
+[![Spotify](https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify&labelColor=black&logoColor=white)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
+
   <h2>📑 Academic curriculum</h2>
   
-  [![ORCID](https://img.shields.io/badge/ORCID-ID-lightblue?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4113-2931)
-  [![Lattes](https://img.shields.io/badge/CNPq-Lattes-lightblue?style=flat&logo=cnpq&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=5932F4EE809B0766F3EA3E9755168F07)
+[![ORCID](https://img.shields.io/badge/ORCID-ID-black?style=flat&logo=orcid&labelColor=black&logoColor=white)](https://orcid.org/0009-0003-4113-2931)
+[![Lattes](https://img.shields.io/badge/CNPq-Lattes-black?style=flat&logo=cnpq&labelColor=black&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=5932F4EE809B0766F3EA3E9755168F07)
 </div>
 
 <div align = center>
-<h5><i>With love, Ray</i></h5> 
+<h5><i>With love, Ray</i></h5>
+<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/83022af7-9ad3-482f-bbaf-017a6b87b75a" alt="Nausicaä's helmet drawing" style="width: 10%">
 </div>
 
 
