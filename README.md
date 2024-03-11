@@ -27,7 +27,7 @@
 ## 🌱 About me
 
 - 📚 Studying Data Science and Foreign Languages. Exploring spiking neural networks and computational neuroscience.
-- 🌐 Struggling to contribute to the open-source projects [snnTorch](https://github.com/jeshraghian/snntorch) and [Open MCT](https://github.com/nasa/openmct) -- those folks are really brilliant.
+- 🌐 Struggling to contribute to the open-source project [Open MCT](https://github.com/nasa/openmct) -- those folks are really brilliant.
 - 🌍 Interested in astronomical research and neuromorphic systems.
 
 ## 🧰 Toolbox
