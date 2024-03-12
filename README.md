@@ -12,7 +12,7 @@
 
 <div>
   <details>
-    <summary><strong>Contents</strong></summary>
+    <summary><strong>Ⲥⲟⲛⲧⲉⲛⲧs</strong></summary>　
   
   - [About me](#-about-me)
   - [Toolbox](#-toolbox)
