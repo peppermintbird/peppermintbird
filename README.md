@@ -1,4 +1,5 @@
 
+
 <div align = center>
   <h3>Hi there!</h3> 
   <h3>Welcome aboard!</h3>
@@ -93,7 +94,7 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 <div align = center>
 <h5><i>With love, Ray</i></h5>
-<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/31cdc9e0-6dfe-4c5e-bf04-f555066cb993" alt="Nausicaä's helmet drawing" style="width: 10%">
+<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/910b8b74-6346-4317-8e63-174bda5f3d64" alt="a peppermintbird drawing" style="width: 8%">
 </div>
 
 
