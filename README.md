@@ -48,7 +48,9 @@
 | **Web Development**     | HTML, CSS                                                         | 
 | **Data Visualization**  | Tableau                                                           | 
 
-![peppermintbird's Streak](https://github-readme-streak-stats.herokuapp.com/?user=peppermintbird&theme=prussian&hide_border=true) ![peppermintbird's Stats](https://github-readme-stats.vercel.app/api?username=peppermintbird&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+<div align = center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peppermintbird&theme=prussian&hide_border=true" alt="peppermint github stats/day streak" style="width: 35%">   <img src="https://github-readme-stats.vercel.app/api?username=peppermintbird&theme=prussian&show_icons=true&hide_border=true&count_private=true"alt="peppermint github stats/grade" style="width: 33%">
+</div>
 
 ## 🌟 Want to learn
 
