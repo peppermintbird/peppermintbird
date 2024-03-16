@@ -80,23 +80,23 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 - 🎮 Thought-provoking games.
 - 🧠 Continuously pursuing knowledge and growth.
 
-<div align="center">
-  <h2>🤝 Let's connect</h2>
 
+<div align = "center">
+    <h5><i>With love, Ray</i></h5>
+</div>
+
+<h1></h1>
+
+<div align="center">
+  
 [![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black&logoColor=white)](mailto:rayanerocha090@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
 [![Spotify](https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify&labelColor=black&logoColor=white)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
-
-  <h2>📑 Academic curriculum</h2>
-  
-[![ORCID](https://img.shields.io/badge/ORCID-ID-black?style=flat&logo=orcid&labelColor=black&logoColor=white)](https://orcid.org/0009-0003-4113-2931)
 [![Lattes](https://img.shields.io/badge/CNPq-Lattes-black?style=flat&logo=cnpq&labelColor=black&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=5932F4EE809B0766F3EA3E9755168F07)
 </div>
 
-<div align = center>
-<h5><i>With love, Ray</i></h5>
-<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/910b8b74-6346-4317-8e63-174bda5f3d64" alt="a peppermintbird drawing" style="width: 8%">
-</div>
+
+
 
 
 
