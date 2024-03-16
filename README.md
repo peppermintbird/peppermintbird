@@ -41,14 +41,14 @@
 | **Programming Languages** | Python, JavaScript                                                        | 
 | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyTorch, Astropy | 
 |**Testing and Coverage** | pytest, Codecov                                                   |
-| **Notebooks**           | Jupyter                                                           | 
+| **Notebooks**           | Jupyter                                                           |      
 | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
 | **Version Control**     | Git, GitHub                                                       |
 | **Runtime**             | Node.js                                                           |
 | **Web Development**     | HTML, CSS                                                         | 
 | **Data Visualization**  | Tableau                                                           | 
 
-
+![peppermintbird's Streak](https://github-readme-streak-stats.herokuapp.com/?user=peppermintbird&theme=prussian&hide_border=true) ![peppermintbird's Stats](https://github-readme-stats.vercel.app/api?username=peppermintbird&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 ## 🌟 Want to learn
 
