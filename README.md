@@ -20,8 +20,6 @@
   - [Want to learn](#-want-to-learn)
   - [Currently reading](#-currently-reading)
   - [Interests](#-interests)
-  - [Let's connect](#-lets-connect)
-  - [Academic curriculum](#-academic-curriculum)
 
   </details>
 </div>
