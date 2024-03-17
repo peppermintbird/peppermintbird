@@ -89,7 +89,6 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
   
 [![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black&logoColor=white)](mailto:rayanerocha090@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/peppermintbird)
 [![Spotify](https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify&labelColor=black&logoColor=white)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
 </div>
 
