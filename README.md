@@ -54,7 +54,7 @@
 
   - [Neurophilosphy](https://www.wi-phi.com/modules/neurophilosophy/) 
   - [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/)
-  - [Neuromatch](https://neuromatch.io/)
+  - [Neuromatch | Computational Neuroscience](https://neuromatch.io/)
   - [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card)
   - [Fortran & C | Scientific computing](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/)
 
