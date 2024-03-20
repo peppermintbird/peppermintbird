@@ -1,9 +1,12 @@
 
 
 <div align = center>
-  <h3>Hi there!</h3> 
-  <h3>Welcome aboard!</h3>
+  <h3>Hi there! 
+    
+  <br>Welcome aboard!
+  </h3>
   <h1>🛸</h1>
+  
 </div>
 
 >I'm Ray, a data science and language enthusiast. Welcome to my corner of the coding dimension!
