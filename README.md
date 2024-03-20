@@ -13,7 +13,7 @@
 
 <div>
   <details>
-    <summary><strong>Ⲥⲟⲛⲧⲉⲛⲧs</strong></summary>　
+    <summary><strong>Contents</strong></summary>　
   
   - [About me](#-about-me)
   - [Toolbox](#-toolbox)
