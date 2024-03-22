@@ -60,7 +60,7 @@
 
 |  ✏️ Learning                  | 🌟 Want to learn | 
 |-------------------------------|-----------------------|
-| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  | [Neurophilosphy](https://www.wi-phi.com/modules/neurophilosophy/) |
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  | [Neurophilosophy](https://www.wi-phi.com/modules/neurophilosophy/) |
 | [Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) | [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/) |
 |                               | [Neuromatch - Computational Neuroscience](https://neuromatch.io/) |
 |                               | [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card) |
