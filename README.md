@@ -76,12 +76,12 @@
 
 _P.S.: I tend to jump from book to book, so this section won't be updated too frequently. 😄_
 
-## 🎬 Interests
+## 🤸‍♀️ Interests
 
-📝 Writing, literature, and drawing.  
+✒ Writing, literature, and drawing.  
 🤓 Language learning (🇯🇵 🇩🇪).  
 😺 Cats.  
-🌟 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).  
+💿 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).  
 🎹 Classic music (especially the piano).  
 🎮 Thought-provoking games.
 
