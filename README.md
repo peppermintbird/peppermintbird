@@ -30,7 +30,11 @@
 
 ## 🌱 About me
 
-I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Spiking Neural Networks and Computational Neuroscience. Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source project, and let me tell you, those folks are brilliant. Also, I'm into merging my long-time interest in astronomy with neuromorphic systems.
+**Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Spiking Neural Networks and Computational Neuroscience. 
+
+**Collab:** Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source project, and let me tell you, those folks are brilliant. 
+
+**Direction:** Also, I'm into merging my long-time interest in astronomy with neuromorphic systems.
 
 ## 🧰 Toolbox
 
