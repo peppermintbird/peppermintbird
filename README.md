@@ -5,7 +5,7 @@
     
   <br>Welcome aboard!
   </h3>
-  <h1>🛸</h1>
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/flying-saucer_1f6f8.gif" style="width: 20%">
   
 </div>
 
@@ -18,20 +18,19 @@
   <details>
     <summary><strong>Contents</strong></summary>　
   
-  - [About me](#-about-me)
-  - [Toolbox](#-toolbox)
-  - [Want to learn](#-want-to-learn)
-  - [Currently reading](#-currently-reading)
-  - [Interests](#-interests)
+  - [About me](#-about-me) 
+  - [Toolbox](#-toolbox) 
+  - [Learning log](#-learning-log) 
+  - [Currently reading](#-currently-reading) 
+  - [Interests](#-interests) 
+  - [Socials](#-)
 
   </details>
 </div>
 
 ## 🌱 About me
 
-- 📚 Studying Data Science and Foreign Languages. Exploring spiking neural networks and computational neuroscience.
-- 🌐 Struggling to contribute to the open-source project [Open MCT](https://github.com/nasa/openmct) -- those folks are really brilliant.
-- 🌍 Interested in astronomical research and neuromorphic systems.
+I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Spiking Neural Networks and Computational Neuroscience. Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source project, and let me tell you, those folks are brilliant. Also, I'm into merging my long-time interest in astronomy with neuromorphic systems.
 
 ## 🧰 Toolbox
 
@@ -47,40 +46,40 @@
 | **Version Control**     | Git, GitHub                                                       |
 | **Runtime**             | Node.js                                                           |
 | **Web Development**     | HTML, CSS                                                         | 
-| **Data Visualization**  | Tableau                                                           | 
+
 
 <div align = center>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peppermintbird&theme=prussian&hide_border=true" alt="peppermint github stats/day streak" style="width: 41%">    <img src="https://github-readme-stats.vercel.app/api?username=peppermintbird&theme=prussian&show_icons=true&hide_border=true&count_private=true"alt="peppermint github stats/grade" style="width: 39%">
 </div>
 
-## 🌟 Want to learn
+##  📔 Learning log
 
-  - [Neurophilosphy](https://www.wi-phi.com/modules/neurophilosophy/) 
-  - [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/)
-  - [Neuromatch | Computational Neuroscience](https://neuromatch.io/)
-  - [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card)
-  - [Fortran & C | Scientific computing](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/)
+|  ✏️ Learning                  | 🌟 Want to learn | 
+|-------------------------------|-----------------------|
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  | [Neurophilosphy](https://www.wi-phi.com/modules/neurophilosophy/) |
+| [Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) | [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/) |
+|                               | [Neuromatch - Computational Neuroscience](https://neuromatch.io/) |
+|                               | [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card) |
+|                               | [Mathematics for ML and DS](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-secondbutton&utm_medium=institutions&utm_source=deeplearning-ai)
+|                               | [Fortran & C - Scientific computing](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/) |
 
-
-## 📖 Currently reading
+## 🔖 Currently reading
   
-  - 💎 **Hard**: "Crime and Punishment" by Fyodor Dostoevsky
-
-  - 🍵 **Mild**: "The Complete Fairy Tales and Stories" by Hans Christian Andersen
-    
+| _Crime and Punishment_  | _The Complete Fairy Tales and Stories_ |
+|---|---|
+| <h6 align="center">Fyodor Dostoevsky</h6> | <h6 align="center">Hans Christian Andersen</h6> |
+| <img src="https://m.media-amazon.com/images/S/aplus-media/sota/7c004f57-3504-4dd1-91cb-9ef71e8a0455.__CR0,0,970,600_PT0_SX970_V1___.png" alt="Crime and Punishment" width="260"/> |   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611669412i/88179.jpg" alt="The Complete Fairy Tales and Stories by Hans Christian Andersen" width="110"/> |
 
 _P.S.: I tend to jump from book to book, so this section won't be updated too frequently. 😄_
 
 ## 🎬 Interests
 
-- 📝 Writing, literature, and drawing.
-- 🤓 Language learning (🇯🇵 🇩🇪).
-- 😺 Cats.
-- 🌟 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).
-- 🎹 Classic music (especially the piano).
-- 🎮 Thought-provoking games.
-- 🧠 Continuously pursuing knowledge and growth.
-
+📝 Writing, literature, and drawing.  
+🤓 Language learning (🇯🇵 🇩🇪).  
+😺 Cats.  
+🌟 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).  
+🎹 Classic music (especially the piano).  
+🎮 Thought-provoking games.
 
 <div align = "center">
     <h5><i>With love, Ray</i></h5>
@@ -88,11 +87,12 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 
 <h1></h1>
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black&logoColor=white)](mailto:rayanerocha090@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
-[![Spotify](https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify&labelColor=black&logoColor=white)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
+<div align="center"><h5> </h5> 
+ 
+ [![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail&labelColor=black&logoColor=white)](mailto:rayanerocha090@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&labelColor=black&logoColor=white)](https://www.linkedin.com/in/rayane-rocha-ds)
+ [![Spotify](https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify&labelColor=black&logoColor=white)](https://open.spotify.com/user/31geojxyibgmhfhyuic7242zreyu?si=04168ceec325448c)
+
 </div>
 
 
