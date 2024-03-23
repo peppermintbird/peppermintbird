@@ -58,14 +58,21 @@
 
 ##  📔 Learning log
 
-|  ✏️ Learning                  | 🌟 Want to learn | 
-|-------------------------------|-----------------------|
-| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)  | [Neurophilosophy](https://www.wi-phi.com/modules/neurophilosophy/) |
-| [Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) | [NASA TOPS 101](https://nasa.github.io/Transform-to-Open-Science/) |
-|                               | [Neuromatch - Computational Neuroscience](https://neuromatch.io/) |
-|                               | [ML with AWS SageMaker](https://aws.amazon.com/sagemaker/getting-started/?refid=ap_card) |
-|                               | [Mathematics for ML and DS](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-secondbutton&utm_medium=institutions&utm_source=deeplearning-ai)
-|                               | [Fortran & C - Scientific computing](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/) |
+ - ✏️ Learning:
+    - Deep Learning Specialization
+    - Advanced Data Analytics
+
+ - 🌟 Want to learn:
+    - Neurophilosophy
+    - NASA TOPS 101
+    - Neuromatch | Computational Neuroscience
+    - ML with AWS SageMaker
+    - Mathematics for ML and DS
+    - Fortran & C | Scientific computing
+
+
+
+
 
 ## 📖 Currently reading
 
