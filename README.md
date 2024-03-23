@@ -5,7 +5,7 @@
     
   <br>Welcome aboard!
   </h3>
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/flying-saucer_1f6f8.gif" style="width: 20%">
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/flying-saucer_1f6f8.gif" style="width: 18%">
   
 </div>
 
@@ -67,12 +67,11 @@
 |                               | [Mathematics for ML and DS](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-secondbutton&utm_medium=institutions&utm_source=deeplearning-ai)
 |                               | [Fortran & C - Scientific computing](https://ocw.mit.edu/courses/12-010-computational-methods-of-scientific-programming-fall-2011/) |
 
-## 🔖 Currently reading
-  
-| _Crime and Punishment_  | _The Complete Fairy Tales and Stories_ |
-|---|---|
-| <h6 align="center">Fyodor Dostoevsky</h6> | <h6 align="center">Hans Christian Andersen</h6> |
-| <img src="https://m.media-amazon.com/images/S/aplus-media/sota/7c004f57-3504-4dd1-91cb-9ef71e8a0455.__CR0,0,970,600_PT0_SX970_V1___.png" alt="Crime and Punishment" width="260"/> |   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611669412i/88179.jpg" alt="The Complete Fairy Tales and Stories by Hans Christian Andersen" width="110"/> |
+## 📖 Currently reading
+
+
+<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/2bf089fb-6ac2-4f30-be4a-e6d0f487bb9c" width="20%">
+
 
 _P.S.: I tend to jump from book to book, so this section won't be updated too frequently. 😄_
 
