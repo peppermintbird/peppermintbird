@@ -58,11 +58,11 @@
 
 ##  📔 Learning log
 
- - ✏️ Learning:
+ - **Learning:**
     - Deep Learning Specialization
     - Advanced Data Analytics
 
- - 🌟 Want to learn:
+ - **Want to learn:**
     - Neurophilosophy
     - NASA TOPS 101
     - Neuromatch | Computational Neuroscience
