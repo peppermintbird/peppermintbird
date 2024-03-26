@@ -92,10 +92,10 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 🎮 Thought-provoking games.
 
 <div align = "center">
-    <h5><i>With love, Ray</i></h5>
+    <h5><i>With love...</i></h5>
 </div>
 
-<h1></h1>
+---
 
 <div align="center"><h5> </h5> 
  
