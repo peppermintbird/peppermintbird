@@ -9,8 +9,10 @@
   
 </div>
 
->I'm Ray, a data science and language enthusiast. Welcome to my corner of the coding dimension!
-
+<div align = center>
+  <p><strong>I'm Ray, a data science and language enthusiast. Welcome to my corner of the coding dimension!</strong></p>
+</div>
+  
 ![carina-slash](https://github.com/peppermintbird/peppermintbird/assets/148541376/4acda94d-5916-4187-8752-1e609648f8ee)
 
 
