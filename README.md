@@ -38,7 +38,7 @@
 
 ## 🧰 Toolbox
 
-> Many of the following still need real-world learning application.
+> ℹ As one can expect, many of the following are not mastered.
 
 | Category               | Tools and Libraries                                                | 
 |------------------------|---------------------------------------------------------------------|
