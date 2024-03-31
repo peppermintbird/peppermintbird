@@ -9,9 +9,6 @@
   
 </div>
 
-<div align = center>
-  <p><strong>I'm Ray, a data science and language enthusiast. Welcome to my corner of the coding dimension!</strong></p>
-</div>
   
 ![carina-slash](https://github.com/peppermintbird/peppermintbird/assets/148541376/4acda94d-5916-4187-8752-1e609648f8ee)
 
@@ -36,7 +33,7 @@
 
 **Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Spiking Neural Networks and Computational Neuroscience. 
 
-**Collab:** Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source framework for mission control, and let me tell you, those folks are brilliant. 
+**Collab:** Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source framework for mission control, and let me tell you, those folks are brilliant. Another fantastic open-source project I'm involved in is [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html). While I study gradient-based learning with SNNs, I'm lending a hand with documentation.
 
 **Direction:** Also, I'm into merging my long-time interest in astronomy with neuromorphic systems.
 
