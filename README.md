@@ -32,6 +32,8 @@
 
 ## 🌱 About me
 
+> Survived 20 years on this pale dot, and became a teacher intern while studying Data Science.
+
 **Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Spiking Neural Networks and Computational Neuroscience. 
 
 **Collab:** Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source framework for mission control, and let me tell you, those folks are brilliant. 
