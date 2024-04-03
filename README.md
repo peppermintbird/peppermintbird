@@ -13,19 +13,6 @@
 ![carina-slash](https://github.com/peppermintbird/peppermintbird/assets/148541376/4acda94d-5916-4187-8752-1e609648f8ee)
 
 
-<div>
-  <details>
-    <summary><strong>Contents</strong></summary>　
-  
-  - [About me](#-about-me) 
-  - [Toolbox](#-toolbox) 
-  - [Learning log](#-learning-log) 
-  - [Currently reading](#-currently-reading) 
-  - [Interests](#-interests) 
-  - [Socials](#-)
-
-  </details>
-</div>
 
 ## 🌱 About me
 
@@ -37,45 +24,49 @@
 
 **Direction:** Also, I'm into merging my long-time interest in astronomy with neuromorphic systems.
 
-## 🧰 Toolbox
+<details>
+  <summary>🧰 Toolbox</summary>
 
-> ℹ As one can expect, many of the following are not mastered.
+  > ℹ As one can expect, many of the following are not mastered.
+  
+  | Category               | Tools and Libraries                                                | 
+  |------------------------|---------------------------------------------------------------------|
+  | **Programming Languages** | Python, JavaScript                                                        | 
+  | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyTorch, Astropy | 
+  |**Testing and Coverage** | pytest, Codecov                                                   |
+  | **Notebooks**           | Jupyter                                                           |      
+  | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
+  | **Version Control**     | Git, GitHub                                                       |
+  | **Runtime**             | Node.js                                                           |
+  | **Web Development**     | HTML, CSS                                                         | 
+  
+  
+  <div align = center>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=peppermintbird&theme=prussian&hide_border=true" alt="peppermint github stats/day streak" style="width: 41%">    <img src="https://github-readme-stats.vercel.app/api?username=peppermintbird&theme=prussian&show_icons=true&hide_border=true&count_private=true"alt="peppermint github stats/grade" style="width: 39%">
+  </div>
 
-| Category               | Tools and Libraries                                                | 
-|------------------------|---------------------------------------------------------------------|
-| **Programming Languages** | Python, JavaScript                                                        | 
-| **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyTorch, Astropy | 
-|**Testing and Coverage** | pytest, Codecov                                                   |
-| **Notebooks**           | Jupyter                                                           |      
-| **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
-| **Version Control**     | Git, GitHub                                                       |
-| **Runtime**             | Node.js                                                           |
-| **Web Development**     | HTML, CSS                                                         | 
+</details>
 
+<details>
+  <summary>🖍 Learning log</summary> 
 
-<div align = center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peppermintbird&theme=prussian&hide_border=true" alt="peppermint github stats/day streak" style="width: 41%">    <img src="https://github-readme-stats.vercel.app/api?username=peppermintbird&theme=prussian&show_icons=true&hide_border=true&count_private=true"alt="peppermint github stats/grade" style="width: 39%">
-</div>
-
-##  🖍 Learning log
-
- - **Learning:**
-    - Deep Learning Specialization
-    - Advanced Data Analytics
-
- - **Want to learn:**
-    - Neurophilosophy
-    - NASA TOPS 101
-    - Neuromatch | Computational Neuroscience
-    - ML with AWS SageMaker
-    - Mathematics for ML and DS
-    - Fortran & C | Scientific computing
+   - **Learning:**
+      - Deep Learning Specialization
+      - Advanced Data Analytics
+  
+   - **Want to learn:**
+      - Neurophilosophy
+      - NASA TOPS 101
+      - Neuromatch | Computational Neuroscience
+      - ML with AWS SageMaker
+      - Mathematics for ML and DS
+      - Fortran & C | Scientific computing
+</details>
 
 
 
-
-
-## 📖 Currently reading
+<details>
+  <summary>📖 Currently reading</summary> 
 
 
 <img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/2bf089fb-6ac2-4f30-be4a-e6d0f487bb9c" width="20%">
@@ -83,7 +74,10 @@
 
 _P.S.: I tend to jump from book to book, so this section won't be updated too frequently. 😄_
 
-## 🤸‍♀️ Interests
+</details>
+
+<details>
+  <summary>🤸‍♀️ Interests</summary>
 
 ✒ Writing, literature, and drawing.  
 🤓 Language learning (🇯🇵 🇩🇪).  
@@ -91,6 +85,8 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 💿 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).  
 🎹 Classical music (especially the piano).  
 🎮 Thought-provoking games.
+
+</details>
 
 <div align = "center">
     <h5><i>With love...</i></h5>
