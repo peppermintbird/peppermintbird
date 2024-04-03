@@ -53,6 +53,7 @@
    - **Learning:**
       - Deep Learning Specialization
       - Advanced Data Analytics
+      - Algorithm Foundations
   
    - **Want to learn:**
       - Neurophilosophy
