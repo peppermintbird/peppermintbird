@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>🖍 Learning log</summary> 
+  <summary>✏️ Learning log</summary> 
 
    - **Learning:**
       - Deep Learning Specialization
