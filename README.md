@@ -9,12 +9,8 @@
   
 </div>
 
-  
-![carina-slash](https://github.com/peppermintbird/peppermintbird/assets/148541376/4acda94d-5916-4187-8752-1e609648f8ee)
 
-
-
-## 🌱 About me
+### 🌱 About me
 
 > Survived 20 years on this pale blue dot, and became a teacher intern while studying Data Science.
 
