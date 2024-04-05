@@ -78,14 +78,13 @@ _P.S.: I tend to jump from book to book, so this section won't be updated too fr
 </details>
 
 <details>
-  <summary>🤸‍♀️ Interests</summary>
+  <summary>🔮 Interests</summary>
 
-✒ Writing, literature, and drawing.  
-🤓 Language learning (🇯🇵 🇩🇪).  
-😺 Cats.  
-💿 Ghibli films, anime cult classics, HxH, Monster, and Trigun (especially the cat!).  
-🎹 Classical music (especially the piano).  
-🎮 Thought-provoking games.
+- Writing, literature, and drawing.  
+- Language learning (🇯🇵 🇩🇪).  
+- Cats.  
+- Classical music (especially the piano).  
+- Mind-bending games and puzzle-solving.
 
 </details>
 
