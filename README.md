@@ -14,9 +14,10 @@
 
 > Survived 20 years on this pale blue dot, and became a teaching intern while studying Data Science.
 
-**Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Spiking Neural Networks and Computational Neuroscience. 
+**Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Computational Neuroscience.
 
-**Collab:** Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source framework for mission control, and let me tell you, those folks are brilliant. Another fantastic open-source project I'm involved in is [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html). While I study gradient-based learning with SNNs, I'm lending a hand with documentation.
+**Collab:** Right now, I'm trying to chip in on [Open MCT](https://github.com/nasa/openmct), an open-source framework for mission control, and let me tell you, those folks are brilliant! Another fantastic open-source project I'm involved in is [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html).
+To add, I'm a student council representative advocating for my fellow students and open science.
 
 **Direction:** Also, I'm into merging my long-time interest in astronomy with neuromorphic systems.
 
