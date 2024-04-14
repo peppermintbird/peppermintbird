@@ -23,7 +23,7 @@
 <details>
   <summary>🧰 Toolbox</summary>
 
-  > ℹ As one can expect, many of the following are not mastered.
+  > ℹ As one can expect, many of the following are not mastered. I try to focus into one thing at a time.
   
   | Category               | Tools and Libraries                                                | 
   |------------------------|---------------------------------------------------------------------|
