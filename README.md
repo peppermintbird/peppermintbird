@@ -77,7 +77,7 @@ To add, I'm a student council representative advocating for my fellow students a
 
 - Writing, literature, and drawing.  
 - Language learning (🇯🇵 🇩🇪).  
-- Cats.  
+- My cat's belly.  
 - Classical music (especially the piano).  
 - Mind-bending games and puzzle-solving.
 
