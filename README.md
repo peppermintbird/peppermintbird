@@ -64,12 +64,11 @@
 
 <details>
   <summary>📖 Currently reading</summary> 
-
-
-<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/2bf089fb-6ac2-4f30-be4a-e6d0f487bb9c" width="20%">
-
-
-_P.S.: I tend to jump from book to book, so this section won't be updated too frequently. 😄_
+</br>
+<p>The Chronicles of Narnia - Book 1</p>
+<img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/5ce9f50c-627c-41d9-bd99-fe58fc7f488c" width="10%">
+<br></br>
+<p><i>P.S.: I tend to jump from book to book, so this section won't be updated too frequently.</i>😄</p>
 
 </details>
 
