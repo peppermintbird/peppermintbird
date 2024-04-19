@@ -14,7 +14,7 @@
 
 > Survived 20 years on this pale blue dot, and became a teaching intern while studying Data Science.
 
-**Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Computational Neuroscience.
+**Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Computational Neuroscience.   
 
 **Collab:** Right now, I'm trying to chip in on fantastic open-source initiatives [Open MCT](https://github.com/nasa/openmct) and [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html).
 To add, I'm a student council representative advocating for my fellow students and open science.
