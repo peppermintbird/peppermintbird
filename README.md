@@ -65,7 +65,7 @@ To add, I'm a student council representative advocating for my fellow students a
 <details>
   <summary>📖 Currently reading</summary> 
 </br>
-<p>The Chronicles of Narnia - Book 1</p>
+<p>The Chronicles of Narnia - Book 2</p>
 <img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/5ce9f50c-627c-41d9-bd99-fe58fc7f488c" width="10%">
 <br></br>
 <p><i>P.S.: I tend to jump from book to book, so this section won't be updated too frequently.</i>😄</p>
