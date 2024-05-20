@@ -54,7 +54,7 @@ To add, I'm a student council representative advocating for my fellow students a
    - **Want to learn:**
       - Neurophilosophy
       - NASA TOPS 101
-      - Neuromatch | Computational Neuroscience
+      - Neuromatch | Computational Neuroscience (Approved! Yayyyyy!)
       - ML with AWS SageMaker
       - Mathematics for ML and DS
       - Fortran & C | Scientific computing
