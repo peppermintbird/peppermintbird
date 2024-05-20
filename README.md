@@ -63,7 +63,7 @@ To add, I'm a student council representative advocating for my fellow students a
 
 
 <details>
-  <summary>📖 Currently reading</summary> 
+  <summary>📖 <i>Fiction</i> reading</summary> 
 </br>
 <p>The Chronicles of Narnia - Book 2</p>
 <img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/5ce9f50c-627c-41d9-bd99-fe58fc7f488c" width="10%">
