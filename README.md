@@ -12,7 +12,7 @@
 
 ### 🌱 About me
 
-> Survived 20 years on this pale blue dot, and became a teaching intern while studying Data Science.
+> Survived 20 years on this pale blue dot, and became an educator and Computational Neuroscience enthusiast.
 
 **Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Computational Neuroscience.   
 
