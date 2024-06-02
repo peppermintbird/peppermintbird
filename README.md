@@ -19,7 +19,7 @@
 **Collab:** Right now, I'm trying to chip in on fantastic open-source project [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html).
 To add, I'm a student council representative advocating for my fellow students and open science.
 
-**Direction:** Also, I'm into merging my long-time interest in creativity with neuromorphic systems.
+**Direction:** Also, I'm into merging creativity and curiosity with neuromorphic systems.
 
 <details>
   <summary>🧰 Toolbox</summary>
