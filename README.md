@@ -14,7 +14,7 @@
 
 > Survived on this pale blue dot, and became an educator and Computational Neuroscience enthusiast.
 
-**Background:** I'm studying Foreign Languages, Language Science, and Data Science, with a big interest in Computational Neuroscience.   
+**Background:** I'm studying Foreign Languages, Language Science, and Data Science.   
 
 **Collab:** Right now, I'm trying to chip in on fantastic open-source project [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html).
 To add, I'm a student council representative advocating for my fellow students and open science.
@@ -54,7 +54,6 @@ To add, I'm a student council representative advocating for my fellow students a
    - **Want to learn:**
       - Neurophilosophy
       - NASA TOPS 101
-      - Neuromatch | Computational Neuroscience (Approved! Yayyyyy!)
       - ML with AWS SageMaker
       - Mathematics for ML and DS
       - Fortran & C | Scientific computing
