@@ -29,7 +29,7 @@ To add, I'm a student council representative advocating for my fellow students a
   | Category               | Tools and Libraries                                                | 
   |------------------------|---------------------------------------------------------------------|
   | **Programming Languages** | Python, JavaScript                                                        | 
-  | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyTorch, | 
+  | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyTorch | 
   |**Testing and Coverage** | pytest, Codecov                                                   |
   | **Notebooks**           | Jupyter                                                           |      
   | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
