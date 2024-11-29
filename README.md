@@ -14,12 +14,9 @@
 
 > Survived on this pale blue dot, and became an educator and data science enthusiast.
 
-**Background:** I'm studying Foreign Languages, Language Science, and Data Science.   
+**Background:** I'm studying Foreign Languages and Linguistics. 
 
-**Collab:** Right now, I'm trying to chip in on fantastic open-source project [snnTorch](https://snntorch.readthedocs.io/en/latest/readme.html).
-To add, I'm a student council representative advocating for my fellow students and open science.
-
-**Direction:** Also, I'm into merging creativity and curiosity with neuromorphic systems.
+**Direction:** I'm into merging creativity and curiosity with neuromorphic systems.
 
 <details>
   <summary>🧰 Toolbox</summary>
@@ -29,7 +26,7 @@ To add, I'm a student council representative advocating for my fellow students a
   | Category               | Tools and Libraries                                                | 
   |------------------------|---------------------------------------------------------------------|
   | **Programming Languages** | Python, JavaScript                                                        | 
-  | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, PyTorch | 
+  | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, PyTorch | 
   |**Testing and Coverage** | pytest, Codecov                                                   |
   | **Notebooks**           | Jupyter                                                           |      
   | **Database and SQL**    | SQL, Big Query, Excel, Google Sheets                              | 
@@ -64,7 +61,7 @@ To add, I'm a student council representative advocating for my fellow students a
 <details>
   <summary>📖 <i>Fiction</i> reading</summary> 
 </br>
-<p>The Chronicles of Narnia - Book 2</p>
+<p>The Chronicles of Narnia - Book 3</p>
 <img src="https://github.com/peppermintbird/peppermintbird/assets/148541376/5ce9f50c-627c-41d9-bd99-fe58fc7f488c" width="10%">
 <br></br>
 <p><i>P.S.: I tend to jump from book to book, so this section won't be updated too frequently.</i>😄</p>
@@ -75,7 +72,7 @@ To add, I'm a student council representative advocating for my fellow students a
   <summary>🔮 Interests</summary>
 
 - Writing, literature, and drawing.  
-- Language learning (🇯🇵 🇩🇪).  
+- Language learning.  
 - My cat's belly.  
 - Classical music (especially the piano).  
 - Mind-bending games and puzzle-solving.
