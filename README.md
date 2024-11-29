@@ -12,7 +12,7 @@
 
 ### 🌱 About me
 
-> Survived on this pale blue dot, and became an educator and data science enthusiast.
+> Survived on this pale blue dot, and became an educator and cognitive science enthusiast.
 
 **Background:** I'm studying Foreign Languages and Linguistics. 
 
