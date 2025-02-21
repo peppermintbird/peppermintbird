@@ -5,7 +5,7 @@
     
   <br>Welcome aboard!
   </h3>
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/flying-saucer_1f6f8.gif" style="width: 18%">
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/flying-saucer_1f6f8.gif" style="width: 8%">
   
 </div>
 
