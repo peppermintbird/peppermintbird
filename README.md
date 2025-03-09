@@ -25,7 +25,7 @@
   
   | Category               | Tools and Libraries                                                | 
   |------------------------|---------------------------------------------------------------------|
-  | **Programming Languages** | Python, JavaScript                                                        | 
+  | **Programming Languages** | Python                                                        | 
   | **Libraries and Frameworks** | NumPy, SymPy, LaTeX, Pandas, Matplotlib, PyTorch | 
   |**Testing and Coverage** | pytest, Codecov                                                   |
   | **Notebooks**           | Jupyter                                                           |      
@@ -49,11 +49,8 @@
       - Algorithm Foundations
   
    - **Want to learn:**
-      - Neurophilosophy
       - NASA TOPS 101
-      - ML with AWS SageMaker
       - Mathematics for ML and DS
-      - Fortran & C | Scientific computing
 </details>
 
 
